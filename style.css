@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+.contact-us {
+  background-image: linear-gradient(to right, #2ad1f8, #8a58b9);
+  color: white;
+  padding: 2.5rem;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+form {
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.5rem;
+  gap: 0.5rem;
+  width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: .8rem;
+  border-radius: 5px;
+  font-size: 1.1rem;
+}
+
+button {
+  padding: .3rem;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: #fff;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  border: none;
+  background-color: black;
+  color: #fff;
+}
