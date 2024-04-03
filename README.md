@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 FORMULÁRIO.
 
-- [Acesse o projeto finalizado, online](https://lorranfranklin.github.io/formulario-ebac/)
+- [Acesse o projeto finalizado, online](https://lorranfranklin.github.io/formulario/)
